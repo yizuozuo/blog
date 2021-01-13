@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{372:function(t,e,n){"use strict";n.r(e);var s=n(42),i=Object(s.a)({},(function(){var t=this.$createElement;this._self._c;return this._m(0)}),[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h2",[this._v("您好吖，我是你的朋友懿左左吖")])])}],!1,null,null,null);e.default=i.exports}}]);
